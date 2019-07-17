@@ -1,0 +1,14 @@
+﻿  main.c
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\year2\sem3\procedural programing\exam1\labexam2018\labexam2018\main.c(103): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  LabExam2018.vcxproj -> C:\Year2\Sem3\Procedural Programing\Exam1\LabExam2018\Debug\LabExam2018.exe
